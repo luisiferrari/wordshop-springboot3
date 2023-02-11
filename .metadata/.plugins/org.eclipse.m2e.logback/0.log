@@ -4,3 +4,4 @@
 2023-02-11 16:27:31,532 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /course/src/main/resources
 2023-02-11 16:27:31,537 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /course/src/main/resources
 2023-02-11 16:27:31,544 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /course/src/test/java
+2023-02-11 16:27:34,070 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 5 sec
